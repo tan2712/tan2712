@@ -1,4 +1,4 @@
-Sarcasm detection &explainibility
-Ai-based dementia assistance platform
+Sarcasm detection &explainibility,
+Ai-based dementia assistance platform,
 campus connect
 
